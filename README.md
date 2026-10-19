@@ -8,4 +8,4 @@ Enlace: (https://learn.microsoft.com/es-es/training/paths/github-foundations/)
 ```bash
 git init
 git add .
-git commit -m "feat: evaluación"
+git commit -m "evaluación"
