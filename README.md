@@ -3,7 +3,7 @@
 * ¿Que es GitHub?
 * GitHub Copilot
 * Trabajo con ramas
-Enlace: (https://learn.microsoft.com/es-es/training/paths/github-foundations/)
+* Enlace: (https://learn.microsoft.com/es-es/training/paths/github-foundations/)
 ### Comandos
 ```bash
 git init
